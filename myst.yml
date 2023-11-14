@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: Breaking down brain predictors of individual pain sensitivity
+  description: manuscript
+  keywords: []
+  authors: []
+  github: https://github.com/pni-lab/rpn-subscores
+  # bibliography: []
+site:
+  template: article-theme
+  # title:
+  # logo:
+  nav: []
+  actions:
+    - title: PNI-lab
+      url: https://pni-lab.github.io/
+  domains: []
